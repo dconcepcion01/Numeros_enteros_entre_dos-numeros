@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numeros_enteros_entre_dos numeros", "Numeros_enteros_entre_dos numeros\Numeros_enteros_entre_dos numeros.csproj", "{1141C306-B28B-43DF-9734-BBBD316F7FDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1141C306-B28B-43DF-9734-BBBD316F7FDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1141C306-B28B-43DF-9734-BBBD316F7FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1141C306-B28B-43DF-9734-BBBD316F7FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1141C306-B28B-43DF-9734-BBBD316F7FDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D234758-A12A-4D37-B642-7D7C7E032F63}
+	EndGlobalSection
+EndGlobal
